@@ -27,32 +27,33 @@ Professional Engineering E.I.T. license # 061-023364
 EXPERIENCE
 
 
-2007–2018	Weidenmiller Company	Itasca, IL
+2007ï¿½2018	Weidenmiller Company	Itasca, IL
 VP Engineering
 * Managed entire plant from shipping/receiving to manufacturing
 * Managed entire engineering team
 * Managed CNC program generation
+* Wrote conversion programs using Visual C that would convert CNC G-Code programs from older machines
 * In charge of all plant engineering and equipment upgrades and purchases
-* Took a company in a stagnant 103 year old industry and upgraded it’s innovation and profitability
+* Took a company in a stagnant 103 year old industry and upgraded itï¿½s innovation and profitability
 * Increased sales from $2.1M to $5M in two years with innovation
 * Implemented automation and controls in a company that had never done so before
 * Integrated automation with customers existing controls
-* Implemented first ever ERP system
+* Implemented first ever ERP system running on Microsoft Server OS
 * Implemented first ever 6S and lean manufacturing methods
 * Linked computers monitoring to production lines
 * Responsible for entire manufacturing operation as well as sales and innovation
 * Responsible for managing maintenance and troubleshooting of faults
 * Increased customer intimacy connections 
-* w/ Mobile App on Android and iOS
-* brought in and hired first sales person from a bakery management position to be “the face of Weidenmiller” with direct connections to customers
+* w/ Mobile App on Android and iOS, using Microsoft Xamarin
+* brought in and hired first sales person from a bakery management position to be ï¿½the face of Weidenmillerï¿½ with direct connections to customers
 * Responsible for profit / loss of company
 * Lead a design team that designs tooling, machinery, software, CNC G-code, and automation
 * Designs are done for customers as well as proprietary in-house machining
-* Redesigned complete upgraded control panels on proprietary machinery built in the 1980’s with no schematics nor support to embedded control with PLC and micro-controllers
-* Upgraded all computers to latest operating system
+* Redesigned complete upgraded control panels on proprietary machinery built in the 1980ï¿½s with no schematics nor support to embedded control with PLC and micro-controllers
+* Upgraded all computers to latest Microsoft operating system
 * Brought in and oversaw training of first Mazak lathe
 * Chief architect of strategic plan to upgrade equipment and add capacity while keeping the company out of debt
-* Implemented custom job tracking software
+* Implemented custom job tracking software that was linked to a Microsoft Access dabatase later upgraded to MS SQL server
 * Chief architect of entire Weidenmiller database linking drawings, designs, CNC programs, job tracking, machinery status, billing, and accounting
 * Assist customers with engineering calculations
 * Assist customers with equipment selection, installation,  and operation
@@ -63,16 +64,16 @@ VP Engineering
 * Designed first ever plastic insert on brass die roll for Weidenmiller Company
 * Designed industry first 3D twisted parting line die molds
 * Innovation and speeded up deliver times caused increase in sales by 50% even during one of the worst recessions
-* Regarded by customers as the “go to guy” for engineering advice, calculations, and designs
+* Regarded by customers as the ï¿½go to guyï¿½ for engineering advice, calculations, and designs
 * Have to deal with vendors, suppliers and machine shops from all over the country and world
 * Regular lecturer at American Institute of Baking classes on machinery usage and design of dies
 * Exhibit at trade show events
 * Responsible for the entire staff of machinists, engineers, programmers, and others to sanswer all questions, provide guidance, and to ensure proper training
 
 
-2016–2017	Cromite	Wheeling IL
+2016ï¿½2017	Cromite	Wheeling IL
 VP Engineering / Lead Engineer     currently company under litigation
-* Start up company developing the world’s first handheld portable chromatography unit
+* Start up company developing the worldï¿½s first handheld portable chromatography unit
 * Brought passion and need for agile development, sense of urgency
 * 4 person company
 * In charge of all engineering: mechanical designs, mechanical NC programing, electrical design, PCB design, firmware, and Android/iOS/ PC interface software.
@@ -82,22 +83,25 @@ VP Engineering / Lead Engineer     currently company under litigation
 * PCB modifications and prototype assemblies done in house by me.
 * Interface software is ground breaking in the field of Chromatography by having a UI that allows someone without a chemistry background to operate the unit, identify compounds, and generate reports.
 * Software was designed by me, from the UX to the Xamarin C# software with shared code for Android, iOS, and PC.
+* Using Microsoft Xamarin allowed the same software that ran on a Windows tablet like surface and a Windows desktop
 * Currently in legal limbo as one of our shareholders is in legal trouble by being a shareholder in another company that is claiming to be a competitor.  
 
 
-02/2007–06/2007   BEK Systems, Inc.	Addison, IL
+02/2007ï¿½06/2007   BEK Systems, Inc.	Addison, IL
 Sr. Control Engineer
 * Subcontractor thru Sterline Engineering
 * Hign speed newspaper printing equipment for MAN Roland
 * Equipment installed in several locations throughout Europe
 * Designed full automation panels linked together with each other and with customers production line 
-* Created database and HMI linking entire production line using C# and linking to PLC’s
+* Created database and HMI linking entire production line using C# and linking to PLCï¿½s
+* Wrote TankView program which using Microsoft Visual C to talk to PLC's and then store the data into MicroSoft Access Database.
 
 
 
-1999–2007	Consultant.	Wood Dale, IL
-Consultant to Several Cusotomers – two of whom were BEK and Sigma Engineering
-* Design high voltage and automation panels using PLC’s and computers
+1999ï¿½2007	Consultant.	Wood Dale, IL
+Consultant to Several Cusotomers ï¿½ two of whom were BEK and Sigma Engineering
+* Design high voltage and automation panels using PLCï¿½s and computers
+* Interfaced PLC's to Microsoft Access database
 * Design products, tooling, machinery, robotics, and automation.
 * Perform.complex mathematical computations to better understand a machine or process and then use the results to design improvements
 * Provide full 3D solids models of designs BEFORE they are built and utilize the latest FEA (finite element analysis) techniques to create and test optimal designs
@@ -105,7 +109,7 @@ Consultant to Several Cusotomers – two of whom were BEK and Sigma Engineering
 * Perform presentations on proposed designs to shareholders of the project.
 
 
-2003–2005	Sigma Engineering, Inc.	Chicago, IL
+2003ï¿½2005	Sigma Engineering, Inc.	Chicago, IL
 Consulting Engineer
 * Consult on a project basis
 * Design industrial machinery and production lines
@@ -115,30 +119,33 @@ Consulting Engineer
 
 
 
-1999–2004	Power House Tool, Inc.									Joliet, IL
+1999ï¿½2004	Power House Tool, Inc.									Joliet, IL
 Consultant & Design Engineer 
 * Consulted on a project basis
 * Designed test and measurement tools for the power industry
+* Interfaced instruments to Windows CE, later to Windows Mobile handheld units
+* Software would send data to Microsoft Excel using DDE
 * Designed equipment that is used in the largest and most efficient nuclear power plants
 * Did on-site installation, training, and supervision in the use of equipment at nuclear, fossil, and natural gas turbine power plants
 * Created battery powered instruments linked to Windows CE handheld devices
 * Presented at major power industry shows and seminars
 
 
-1995–1999	Siligan / White Cap, Inc.	(Continental Can)			Downers Grove, IL
+1995ï¿½1999	Siligan / White Cap, Inc.	(Continental Can)			Downers Grove, IL
 Senior Project Engineer
 * Mentored project engineers, associate engineers, and co-op students
 * Interfaced directly with electricians, panel houses, machine shops, and PCB houses during construction of projects
-* Thought of, researched, and started development of a completely non-contact Moiré inferometer vision gauging system
-* Developed “intermediate” mechanical contact gauging system that sends values over directly into Excel
+* Thought of, researched, and started development of a completely non-contact Moirï¿½ inferometer vision gauging system
+* Developed ï¿½intermediateï¿½ mechanical contact gauging system that sends values over directly into Excel
 * Developed DSP based system for detecting tamper bands on jars
 * Co-developed completely servo driven sheet fed press and was responsible for on-site debugging and startup
 * Developed servo driven capping equipment with PLC controls
 * Installed machinery, equipment, and software all over the world
-* Performed statistical design of experiment (D.O.E.) that solved collapsed sidewall problem. This was an extensive problem that eliminated supposedly “intermittent” defect with tooling and machinery.
+* Performed statistical design of experiment (D.O.E.) that solved collapsed sidewall problem. This was an extensive problem that eliminated supposedly ï¿½intermittentï¿½ defect with tooling and machinery.
 * Solved other problems using statistics that occurred down to 2-3 defects per 2 million
+* Data was collected by using Visual C program that would feed data to Microsoft Excel using DDE.
 * Solved compound pouring problems using statistical design of experiment, requiring many different instruments to be hooked up
-* Designed pressure monitoring system while compound is being poured to correct defects discovered during D.O.E. This was an on-line embedded micro-processor. Future upgraded to PC/104 system.
+* Designed pressure monitoring system while compound is being poured to correct defects discovered during D.O.E. This was an on-line embedded micro-processor. Future upgraded to PC/104 running Windows CE system.
 * Designed force monitoring system during metal forming operation that will detect defects
 * Investigated possibility and feasibility of using force transducers with signature analysis during punching and blanking operations
 * Designed machinery used throughout the world
@@ -146,7 +153,7 @@ Senior Project Engineer
 * Assisted all departments and plants all over the world in sensor selection, instrumentation design, embedded microcontroller or processor design, PLC selection/design, fixturing and locating sensors, analyzing if results will be positive, doing computations and statistics, directing programmers or actually doing programming myself in a full array of computer languages.
 
 
-1992–1995	Siligan / White Cap, Inc.  (Continental Can)	Chicago, IL
+1992ï¿½1995	Siligan / White Cap, Inc.  (Continental Can)	Chicago, IL
 Project Engineer
 * Responsible for integrating sophisticated instrumentation into industrial machinery. Used for quality production as a well as research. Each instrument contained custom embedded microprocessors.
 * Designed and installed a $3 million completely PLC controlled production line
@@ -154,27 +161,28 @@ Project Engineer
 * Installed, modified, and troubleshot machinery and equipment in plants all over the world
 * Took over management of mainframe CAD system as well as office computer network
 * Took over design of in house vision inspection equipment as well as outside designed systems
-* Assisted plants in debugging automation equipment that utilized PLC’s, microprocessors, and computers.
+* Assisted plants in debugging automation equipment that utilized PLCï¿½s, microprocessors, and computers.
 
 
-1988–1992	Data Weighing Systems, Inc.						Elk Grove Village, IL
+1988ï¿½1992	Data Weighing Systems, Inc.						Elk Grove Village, IL
 Engineer
 * Was the only engineer / technical person on staff in a small company, therefore, exposed to many different aspects of engineering
 * Designed entire projects from initial sales call to conceptual ideas to final production. This involved my dealing with customers as a salesperson
 * Involved in creating initial proposals that required estimating time & materials
 * Laid out and integrated entire systems
-* Designed custom boards and chips that would integrate with other vendor’s boards and devices. In doing so, I was extensively involved in dealing with and tracking vendor’s progress and specs.
+* Used Microsoft Visual Basic to interface to scales
+* Designed custom boards and chips that would integrate with other vendorï¿½s boards and devices. In doing so, I was extensively involved in dealing with and tracking vendorï¿½s progress and specs.
 * Managed entire projects from start to finish. This could not be possible without setting and keeping deadlines
 * Coordinated with technicians and a lot of times I did the actual installations myself of complex, integrated systems
-* Wrote or managed all of the software written in many different languages including assembler, ‘C’, Pascal, dBase, and Forth
-* Was service department’s technical advisor which required me at times to do the actual service myself on the bench or in the field.  I own all of my own tools.
+* Wrote or managed all of the software written in many different languages including assembler, ï¿½Cï¿½, Pascal, dBase, and Forth
+* Was service departmentï¿½s technical advisor which required me at times to do the actual service myself on the bench or in the field.  I own all of my own tools.
 * Provided the customer assistance and training. Troubleshooting over the telephone with customers was another aspect of being the technical person in charge
 * Designed and ran technical training sessions for the technicians
-* Designed systems that included integrated force or weight transducers, computers, PLC’s, vibratory feeders, conveyors, and mechanical assembly lines
+* Designed systems that included integrated force or weight transducers, computers, PLCï¿½s, vibratory feeders, conveyors, and mechanical assembly lines
 * Examples of designs included:
 - Networked stations with pneumatically accepted or rejected parts based on their target weight
 - Numerous box filling applications utilizing vibratory or conveyor feeders
-- Computers linked to PLC’s
+- Computers linked to PLCï¿½s
 - Intrinsically safe designs and wiring
 - Custom embedded micro-controller boards
 
@@ -199,15 +207,15 @@ EDUCATION
 * B.S. Electrical Engineering.
 * Additional course work in mechanical engineering and applied math
 	Dorian Shanin	Chicago, IL
-* Personally taught by the “Father of six sigma”
+* Personally taught by the ï¿½Father of six sigmaï¿½
 * Completed studies on Design of Experiments and statistical engineering
 	William Rainey Harper College	Palatine, IL
-* Beginner’s Guide to Developing New Products and Services
+* Beginnerï¿½s Guide to Developing New Products and Services
 * 0.30 continuing education credits
 * covered patent search, patents, trademarks, & copyrights
 	Wayne State University/Roosevelt University	Chicago, IL
 * Starting Your Own Small Business
-* 16 week class offered thru Roosevelt University’s continuing education department
+* 16 week class offered thru Roosevelt Universityï¿½s continuing education department
 * Covered every aspect from marketing to sales to book keeping to financial statements
 	William Rainey Harper College	Palatine, IL
 * Course work to transfer to a four year institution.
